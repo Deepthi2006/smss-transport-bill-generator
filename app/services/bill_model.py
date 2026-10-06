@@ -67,7 +67,7 @@ class BillData:
                     "to": row.to_location,
                     "invoice_no": row.invoice_no,
                     "invoice_date": row.invoice_date,
-                    "item_name": row.item_name,
+                    "item_name": "HIPRO-TIPPER",
                     "vehicle_no": row.vehicle_no,
                     "dispatched_qty": row.dispatched_qty,
                     "freight_per_ton": row.freight_per_ton,

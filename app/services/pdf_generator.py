@@ -1005,7 +1005,7 @@ class PDFBillGenerator:
 
                 row.invoice_date,
 
-                row.item_name,
+                "HIPRO-TIPPER",
 
                 row.vehicle_no,
 
